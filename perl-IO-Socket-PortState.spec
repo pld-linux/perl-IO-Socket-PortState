@@ -4,7 +4,6 @@
 #
 %define		pdir	IO
 %define		pnam	Socket-PortState
-%include	/usr/lib/rpm/macros.perl
 Summary:	IO::Socket::PortState - Perl extension for checking the open or closed status of a port.
 Name:		perl-IO-Socket-PortState
 Version:	0.03
